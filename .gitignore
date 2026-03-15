@@ -5,3 +5,4 @@ venv/
 .env
 .conda/
 *.conda
+old_files/
