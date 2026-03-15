@@ -1,0 +1,14 @@
+state,county,new_county,fips,reason,added_date
+Nevada,Ormsby,Carson City,32510,"Dissolved in 1969, merged with Carson City",2/28/2026
+New Hampshire,Coös,Coos,33007,Diarectic Mismatch,2/28/2026
+New Mexico,Dona Ana,Dona Ana,35013,Diarectic Mismatch,2/28/2026
+Oklahoma,LeFlore,Le Flore,40079,Missing Space,2/28/2026
+Louisiana,DeSoto,De Soto,22031,Missing Space,2/28/2026
+South Dakota,Shannon,Shannon,46102,Renamed to Oglala Lakota County in 2015,2/28/2026
+South Dakota,Washabaugh,Jackson,46071,"Merged with Jackson County, SD will need to be changed in future versions. ",2/28/2026
+Virginia,Bedford City,Bedford,51019,"Merged with Bedford County, VA will need to be changed in future versions. ",2/28/2026
+Virginia,Clifton Forge,Alleghany,51005,"Merged with Alleghany County, VA will need to be changed in future versions. ",2/28/2026
+Virginia,Nansemond,Suffolk,51800,"Merged with the independent city of suffolk, will need to be changed in later versions ",2/28/2026
+Virginia,South Boston,Halifax,51083,"Merged with Halifax County in 1990, will need to be changed later",2/28/2026
+Florida,Dade,Miami-Dade,12086,Renamed 1997,2/28/2026
+Illinois,DeWitt,De Witt,17039,Missing Space,2/28/2026
