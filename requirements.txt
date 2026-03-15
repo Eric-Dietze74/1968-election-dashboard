@@ -6,3 +6,4 @@ shapely
 pyshp
 numpy
 requests
+gunicorn
